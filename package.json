@@ -9,7 +9,7 @@
       "serve": "vite preview"
     },
     "dependencies": {
-      "three": "^0.167.1",
+      "three": "^0.168.0",
       "stats.js": "^0.17.0"
     },
     "devDependencies": {
