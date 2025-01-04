@@ -1,5 +1,6 @@
 import * as THREE from 'three';
 
+
 /**
  * Initialize the Scene
  * Sets up the basic scene with optional background color or environment map.
